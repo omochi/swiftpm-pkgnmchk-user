@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "swiftpm-package-name-check",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/omochi/swiftpm-package-name-check",
+      "state" : {
+        "branch" : "main",
+        "revision" : "907d7f3939b3df7e18c5592037fe96d89f8259dc"
+      }
+    }
+  ],
+  "version" : 2
+}
